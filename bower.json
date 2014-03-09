@@ -1,0 +1,28 @@
+{
+  "name": "jquery.colortip",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/jquery.colortip",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "colored tooltips using jquery",
+  "main": [
+    "colortip-1.0-jquery.css",
+    "colortip-1.0-jquery.js"
+  ],
+  "keywords": [
+    "colortip",
+    "jquery",
+    "css",
+    "js",
+    "tooltip"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
